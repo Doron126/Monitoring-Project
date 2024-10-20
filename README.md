@@ -4,7 +4,7 @@ The script builed a single metric in Prometheus that later it can be used on Gra
 
 **Thecnologies Used**
 * Python
-* Python libaries: psutil, prometheus_client
+* Python libaries: psutil, prometheus_client, time
 * Prometheus
 * Grafana
 
