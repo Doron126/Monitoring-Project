@@ -1,14 +1,15 @@
-**Overview**
+# **Monitoring-Project**
+## **Overview**
 In this project I set up a free, real-time monitoring solution using Python, Prometheus, and Grafana.
 The script builed a single metric in Prometheus that later it can be used on Grafana, that is collecting data on CPU and Memory usage.
 
-**Thecnologies Used**
+## **Thecnologies Used**
 * Python
 * Python libaries: psutil, prometheus_client, time
 * Prometheus
 * Grafana
 
-**Instructions**
+## **Instructions**
   1. Create an Ubuntu server machine.
      
   2. Install python3 on your machine:
