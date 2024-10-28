@@ -10,7 +10,7 @@ The script builed a single metric in Prometheus that later it can be used on Gra
 * Grafana
 
 ## **Instructions**
-  1. Create an Ubuntu server machine.
+  1. SET up an Ubuntu server machine.
      
   2. Install python3 on your machine:
      "apt install python3 python3-pip"
